@@ -1,9 +1,4 @@
-# ChRoadAccidents
-## Visualization, analysis and forecasting of road traddic accidents in Switzerland
 
-Medium article: https://medium.com/@benoit.figuet/road-accidents-in-switzerland-forecasting-a-brief-comparison-between-facebook-prophet-and-lstm-6514f585681
-
-Forecast and analysis of road traffic accidents in switzerland using the "Strassenverkehrsunfallorte" dataset available at the following address: https://opendata.swiss/en/dataset/strassenverkehrsunfalle-mit-personenschaden
 
 Planned Work:
 
